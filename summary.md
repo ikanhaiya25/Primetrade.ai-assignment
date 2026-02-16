@@ -1,6 +1,6 @@
 # 📊 Crypto Trader Behavior vs Market Sentiment — Summary
 
-## 🧠 Methodology
+##  Methodology
 
 The analysis was conducted by combining historical trader data with Bitcoin market sentiment (Fear/Greed Index) at a daily level.
 
@@ -20,7 +20,7 @@ Key steps included:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 1. **Higher Profitability During Greed**
    - Traders achieve higher average PnL during Greed periods, indicating stronger and more predictable market trends.
@@ -38,7 +38,7 @@ Key steps included:
 
 ---
 
-## 💡 Strategy Recommendations
+##  Strategy Recommendations
 
 ### 1. Risk Management in Fear Markets
 - Reduce trade frequency to avoid overtrading  
@@ -52,6 +52,6 @@ Key steps included:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 Market sentiment has a strong influence on both trader behavior and performance. By adapting trading strategies based on sentiment conditions, traders can improve profitability while managing risk more effectively.
