@@ -9,7 +9,7 @@ This project analyzes how Bitcoin Fear/Greed sentiment impacts trader behavior a
 ##  Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/crypto-sentiment-analysis.git
+git clone https://github.com/ikanhaiya25/Primetrade.ai-assignment.git
 cd crypto-sentiment-analysis
 
 ---
