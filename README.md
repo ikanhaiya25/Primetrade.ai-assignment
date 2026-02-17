@@ -33,10 +33,7 @@ pip install -r requirements.txt
 ##  How to Run
 
 ### Option 1: Run Jupyter Notebook
-jupyter notebook analysis.ipynb
-
-### Option 2: Run as Python Script (if converted)
-python analysis.py
+Script.ipynb
 
 ---
 
