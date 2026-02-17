@@ -1,4 +1,4 @@
-# 📊 Crypto Trader Behavior vs Market Sentiment — Summary
+#  Crypto Trader Behavior vs Market Sentiment — Summary
 
 ##  Methodology
 
